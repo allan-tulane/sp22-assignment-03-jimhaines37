@@ -25,7 +25,7 @@ Place all written answers from `assignment-03.md` here for easier grading.
   
 - **d.**
 
-  W(n) = 2W(n/2) + 1
+  W(n) = 2W(n/2) + n
   
   S(n) = S(n/2) + 1
 
@@ -34,9 +34,9 @@ Place all written answers from `assignment-03.md` here for easier grading.
 
 
 - **f.**
-  W(n) = 2W(n/2) + 1
+  W(n) = 2W(n/2) + n
   
-  in O(n)
+  in O(n * log n)
   
   S(n) = S(n/2) + 1
   
