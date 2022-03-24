@@ -13,7 +13,7 @@ Place all written answers from `assignment-03.md` here for easier grading.
 
 - **b.** What are the recurrences for the Work and Span of this solution? What are their Big Oh solutions?
 
-  W(n) = 2W(n/2) + O(n)
+  W(n) = W(n) + O(n)
     
     The parens_match_iterative() function 
   
