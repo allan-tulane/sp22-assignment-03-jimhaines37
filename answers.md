@@ -15,35 +15,28 @@ Place all written answers from `assignment-03.md` here for easier grading.
 
   W(n) = W(n-1) + 1
     
-    
-    W(n) = O(n)
+  W(n) = O(n)
 
-    
   S(n) = S(n-1) + 1
   
-    S(n) = O(n)
+  S(n) = O(n)
   
-    
-    
-    The parens_match_iterative() function 
   
-  --> O(n)
   
-  S(n) = ... --> O(...)
-  
-
-
-
-
 - **d.**
 
-  W(n) = ...
-  S(n) = ...
+  W(n) = 2W(n/2) + 1
+  S(n) = S(n/2) + 1
 
 
 
 
 
 - **f.**
-  W(n) = ... --> O(...)
-  S(n) = ... --> O(...)
+  W(n) = 2W(n/2) + 1
+  
+  O() = 
+  
+  S(n) = 
+  
+  O() = 
